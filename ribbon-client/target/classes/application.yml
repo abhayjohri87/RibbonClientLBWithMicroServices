@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: ribbon-client
+
+employee-microservice:
+    ribbon:
+        eureka:
+            enabled: false
+        listOfServers: localhost:8086,localhost:8098,localhost:9080
+        ServerListRefreshInterval: 15000
+ # HTTP Server (Tomcat) Port
+server: 
+  port: 9070

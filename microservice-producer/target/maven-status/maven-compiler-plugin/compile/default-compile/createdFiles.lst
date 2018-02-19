@@ -1,0 +1,5 @@
+com\eureka\discovery\client2\WebclientServerMicroserviceApplication.class
+com\eureka\discovery\client2\dto\EmployeeDtoService.class
+com\eureka\discovery\client2\bo\Employee.class
+com\eureka\discovery\client2\dto\impl\EmployeeDtoServiceImpl.class
+com\eureka\discovery\client2\controller\EmployeeServerController.class
